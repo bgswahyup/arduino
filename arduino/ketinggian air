@@ -1,10 +1,5 @@
 /*
  * Project : Pengukuran ketinggian air menggunakan water level sensor
- * Dibuat Oleh : Giri Wahyu Pambudi
- * Tanggal : 17/12/2017
- * Credit : https://www.cronyos.com
- * Revisi terakhir : 17/12/2017
- * 
 
 Wiring :
  Sensor ========> Arduino
